@@ -1,0 +1,2 @@
+# MojeRepozytorium
+Nauka podstaw GIT
